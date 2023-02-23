@@ -1,0 +1,23 @@
+[This readme is for the first pre-release alpha version of Project Newton, released on the 27th October, 2022.]
+
+
+
+Hi! I hope you enjoy the game, just a couple quick notes and some pointers before you play :)
+
+Firstly and quickly, please don't share this game without explicit permission from Henry Gurney. This is a pre-release alpha version only intended for my close friends, a complete 1.0 full-release version will be released soon for anyone else that might want to play this.
+
+
+
+Now, some quick pointers/advice:
+
+The player has 3 lives, eg on the third hit they die. The player blinks pink when one life is lost, and red when two are lost (indicating one more hit will end the game).
+
+Each enemy turret has 5 lives, and will flash darker grey depending on how many lives they've lost.
+
+The single level is very short, but quite difficult - more are coming soon, so sit tight until then!
+
+
+
+One last thing, thankyou so much for playing! It means a lot and I really hope you enjoy it, even if this is just the pre-release version.
+
+Good luck and have fun! :)
